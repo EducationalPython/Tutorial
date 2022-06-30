@@ -9,3 +9,7 @@ I added new info now using Git
 ## New feature (fake feature to learn branching in git)
 
 This is how its done
+
+## And again
+
+Another feature
